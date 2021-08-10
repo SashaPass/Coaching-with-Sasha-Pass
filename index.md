@@ -1,5 +1,5 @@
 # Coaching with Sasha Pass
-#
+
 ## About me
 
 ![Picture1](https://user-images.githubusercontent.com/26466943/120836083-c9cebe80-c52a-11eb-94af-ee4da120fba4.png)
